@@ -1,0 +1,252 @@
+[
+    {
+        "patient_id": "P001",
+        "notes": "Patient P001 presented with fatigue.",
+        "clinical_summary": "No major events. Recommended follow-up in 3 months."
+    },
+    {
+        "patient_id": "P002",
+        "notes": "Patient P002 presented with cough.",
+        "clinical_summary": "No major events. Recommended follow-up in 3 months."
+    },
+    {
+        "patient_id": "P003",
+        "notes": "Patient P003 presented with chest pain.",
+        "clinical_summary": "No major events. Recommended follow-up in 2 weeks."
+    },
+    {
+        "patient_id": "P004",
+        "notes": "Patient P004 presented with cough.",
+        "clinical_summary": "No major events. Recommended follow-up in 3 months."
+    },
+    {
+        "patient_id": "P005",
+        "notes": "Patient P005 presented with shortness of breath.",
+        "clinical_summary": "No major events. Recommended follow-up in 2 weeks."
+    },
+    {
+        "patient_id": "P006",
+        "notes": "Patient P006 presented with cough.",
+        "clinical_summary": "No major events. Recommended follow-up in 1 month."
+    },
+    {
+        "patient_id": "P007",
+        "notes": "Patient P007 presented with cough.",
+        "clinical_summary": "No major events. Recommended follow-up in 2 weeks."
+    },
+    {
+        "patient_id": "P008",
+        "notes": "Patient P008 presented with chest pain.",
+        "clinical_summary": "No major events. Recommended follow-up in 1 month."
+    },
+    {
+        "patient_id": "P009",
+        "notes": "Patient P009 presented with cough.",
+        "clinical_summary": "No major events. Recommended follow-up in 3 months."
+    },
+    {
+        "patient_id": "P010",
+        "notes": "Patient P010 presented with shortness of breath.",
+        "clinical_summary": "No major events. Recommended follow-up in 1 month."
+    },
+    {
+        "patient_id": "P011",
+        "notes": "Patient P011 presented with shortness of breath.",
+        "clinical_summary": "No major events. Recommended follow-up in 1 month."
+    },
+    {
+        "patient_id": "P012",
+        "notes": "Patient P012 presented with cough.",
+        "clinical_summary": "No major events. Recommended follow-up in 2 weeks."
+    },
+    {
+        "patient_id": "P013",
+        "notes": "Patient P013 presented with shortness of breath.",
+        "clinical_summary": "No major events. Recommended follow-up in 2 weeks."
+    },
+    {
+        "patient_id": "P014",
+        "notes": "Patient P014 presented with fatigue.",
+        "clinical_summary": "No major events. Recommended follow-up in 2 weeks."
+    },
+    {
+        "patient_id": "P015",
+        "notes": "Patient P015 presented with chest pain.",
+        "clinical_summary": "No major events. Recommended follow-up in 2 weeks."
+    },
+    {
+        "patient_id": "P016",
+        "notes": "Patient P016 presented with cough.",
+        "clinical_summary": "No major events. Recommended follow-up in 3 months."
+    },
+    {
+        "patient_id": "P017",
+        "notes": "Patient P017 presented with fatigue.",
+        "clinical_summary": "No major events. Recommended follow-up in 2 weeks."
+    },
+    {
+        "patient_id": "P018",
+        "notes": "Patient P018 presented with shortness of breath.",
+        "clinical_summary": "No major events. Recommended follow-up in 1 month."
+    },
+    {
+        "patient_id": "P019",
+        "notes": "Patient P019 presented with chest pain.",
+        "clinical_summary": "No major events. Recommended follow-up in 3 months."
+    },
+    {
+        "patient_id": "P020",
+        "notes": "Patient P020 presented with chest pain.",
+        "clinical_summary": "No major events. Recommended follow-up in 2 weeks."
+    },
+    {
+        "patient_id": "P021",
+        "notes": "Patient P021 presented with chest pain.",
+        "clinical_summary": "No major events. Recommended follow-up in 3 months."
+    },
+    {
+        "patient_id": "P022",
+        "notes": "Patient P022 presented with cough.",
+        "clinical_summary": "No major events. Recommended follow-up in 2 weeks."
+    },
+    {
+        "patient_id": "P023",
+        "notes": "Patient P023 presented with chest pain.",
+        "clinical_summary": "No major events. Recommended follow-up in 1 month."
+    },
+    {
+        "patient_id": "P024",
+        "notes": "Patient P024 presented with fatigue.",
+        "clinical_summary": "No major events. Recommended follow-up in 3 months."
+    },
+    {
+        "patient_id": "P025",
+        "notes": "Patient P025 presented with fatigue.",
+        "clinical_summary": "No major events. Recommended follow-up in 2 weeks."
+    },
+    {
+        "patient_id": "P026",
+        "notes": "Patient P026 presented with fatigue.",
+        "clinical_summary": "No major events. Recommended follow-up in 2 weeks."
+    },
+    {
+        "patient_id": "P027",
+        "notes": "Patient P027 presented with fatigue.",
+        "clinical_summary": "No major events. Recommended follow-up in 2 weeks."
+    },
+    {
+        "patient_id": "P028",
+        "notes": "Patient P028 presented with shortness of breath.",
+        "clinical_summary": "No major events. Recommended follow-up in 3 months."
+    },
+    {
+        "patient_id": "P029",
+        "notes": "Patient P029 presented with fatigue.",
+        "clinical_summary": "No major events. Recommended follow-up in 2 weeks."
+    },
+    {
+        "patient_id": "P030",
+        "notes": "Patient P030 presented with shortness of breath.",
+        "clinical_summary": "No major events. Recommended follow-up in 3 months."
+    },
+    {
+        "patient_id": "P031",
+        "notes": "Patient P031 presented with fatigue.",
+        "clinical_summary": "No major events. Recommended follow-up in 2 weeks."
+    },
+    {
+        "patient_id": "P032",
+        "notes": "Patient P032 presented with cough.",
+        "clinical_summary": "No major events. Recommended follow-up in 1 month."
+    },
+    {
+        "patient_id": "P033",
+        "notes": "Patient P033 presented with chest pain.",
+        "clinical_summary": "No major events. Recommended follow-up in 2 weeks."
+    },
+    {
+        "patient_id": "P034",
+        "notes": "Patient P034 presented with fatigue.",
+        "clinical_summary": "No major events. Recommended follow-up in 3 months."
+    },
+    {
+        "patient_id": "P035",
+        "notes": "Patient P035 presented with shortness of breath.",
+        "clinical_summary": "No major events. Recommended follow-up in 3 months."
+    },
+    {
+        "patient_id": "P036",
+        "notes": "Patient P036 presented with chest pain.",
+        "clinical_summary": "No major events. Recommended follow-up in 3 months."
+    },
+    {
+        "patient_id": "P037",
+        "notes": "Patient P037 presented with chest pain.",
+        "clinical_summary": "No major events. Recommended follow-up in 3 months."
+    },
+    {
+        "patient_id": "P038",
+        "notes": "Patient P038 presented with chest pain.",
+        "clinical_summary": "No major events. Recommended follow-up in 3 months."
+    },
+    {
+        "patient_id": "P039",
+        "notes": "Patient P039 presented with fatigue.",
+        "clinical_summary": "No major events. Recommended follow-up in 1 month."
+    },
+    {
+        "patient_id": "P040",
+        "notes": "Patient P040 presented with chest pain.",
+        "clinical_summary": "No major events. Recommended follow-up in 1 month."
+    },
+    {
+        "patient_id": "P041",
+        "notes": "Patient P041 presented with chest pain.",
+        "clinical_summary": "No major events. Recommended follow-up in 3 months."
+    },
+    {
+        "patient_id": "P042",
+        "notes": "Patient P042 presented with fatigue.",
+        "clinical_summary": "No major events. Recommended follow-up in 3 months."
+    },
+    {
+        "patient_id": "P043",
+        "notes": "Patient P043 presented with cough.",
+        "clinical_summary": "No major events. Recommended follow-up in 3 months."
+    },
+    {
+        "patient_id": "P044",
+        "notes": "Patient P044 presented with fatigue.",
+        "clinical_summary": "No major events. Recommended follow-up in 2 weeks."
+    },
+    {
+        "patient_id": "P045",
+        "notes": "Patient P045 presented with fatigue.",
+        "clinical_summary": "No major events. Recommended follow-up in 3 months."
+    },
+    {
+        "patient_id": "P046",
+        "notes": "Patient P046 presented with chest pain.",
+        "clinical_summary": "No major events. Recommended follow-up in 2 weeks."
+    },
+    {
+        "patient_id": "P047",
+        "notes": "Patient P047 presented with chest pain.",
+        "clinical_summary": "No major events. Recommended follow-up in 3 months."
+    },
+    {
+        "patient_id": "P048",
+        "notes": "Patient P048 presented with cough.",
+        "clinical_summary": "No major events. Recommended follow-up in 1 month."
+    },
+    {
+        "patient_id": "P049",
+        "notes": "Patient P049 presented with shortness of breath.",
+        "clinical_summary": "No major events. Recommended follow-up in 2 weeks."
+    },
+    {
+        "patient_id": "P050",
+        "notes": "Patient P050 presented with chest pain.",
+        "clinical_summary": "No major events. Recommended follow-up in 1 month."
+    }
+]
