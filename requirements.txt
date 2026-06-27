@@ -8,3 +8,4 @@ shap
 imbalanced-learn
 openpyxl
 plotly
+seaborn
